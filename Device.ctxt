@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Device
+comment0.text=\r\n\ This\ class\ demonstrates\ getter\ and\ setter\ functions,\ and\ local\ charge\ \r\n\ and\ print\ functions.\ It\ also\ is\ a\ parent\ class\ to\ the\ child\ class\r\n\ Phone.\ \r\n\r\n\ @author\ Ananya\ Harshe\r\n\ @version\ 11/18/2025\r\n
+comment1.params=
+comment1.target=Device()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Device\r\n
+comment2.params=b
+comment2.target=Device(int)
+comment3.params=
+comment3.target=int\ getBattery()
+comment4.params=
+comment4.target=int\ getCount()
+comment5.params=
+comment5.target=void\ charge()
+comment6.params=
+comment6.target=void\ print()
+numComments=7

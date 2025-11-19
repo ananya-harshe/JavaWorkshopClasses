@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Phone
+comment0.text=\r\n\ Phone\ is\ a\ child\ class\ of\ Device.\ It\ contains\ the\ specific\ variable\ text,\ \r\n\ the\ specific\ method\ sendText(),\ and\ inherits\ charge()\ and\ battery.\ \r\n\ \r\n\ @author\ Ananya\ Harshe\r\n\ @version\ 11/18/2025\r\n
+comment1.params=b\ t
+comment1.target=Phone(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Phone\r\n
+comment2.params=
+comment2.target=void\ sendText()
+comment2.text=\r\n\ An\ instance\ function\ local\ to\ the\ Phone\ class\r\n
+comment3.params=
+comment3.target=void\ charge()
+comment3.text=\r\n\ This\ method\ overrides\ the\ charge()\ method\ from\ the\ Device\ class.\ \r\n\ It\ is\ specific\ to\ the\ Phone\ class.\ If\ this\ method\ override\ did\ \r\n\ not\ exist,\ then\ phone_object.charge()\ would\ call\ the\ method\ from\r\n\ the\ Device\ class.\ \r\n
+numComments=4
